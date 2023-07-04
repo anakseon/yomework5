@@ -32,10 +32,9 @@ earlBio = reverseLinkedList(earlBio);
     private static void addLast(String str4) {
     }
     public str2 dequeue(){
-        return Queue.pollFirst(str2);
+        return (str2) Queue.pollFirst(str2);
     }
-    
-    private  str2 pollFirst(String str2) {
+    private static str2 pollFirst(String str2) {
         return null;
     }
     public str3 first() {
